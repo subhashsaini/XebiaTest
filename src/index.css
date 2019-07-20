@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+#itemStyle {
+  margin: 2px;  
+  float: left;
+  cursor: pointer;
+  position: relative;
+  border: 1px solid grey;
+  width: 150px;
+  height: 90px;
+}
+
+h5{
+  margin-top: 15px;
+  margin-bottom: 5px;
+  color: maroon
+}
+h6{
+  margin-top: 1px;
+  margin-bottom: 1px;
+  margin-left: 10px;
+  float: left;
+  color: rgb(29, 29, 29)
+}
